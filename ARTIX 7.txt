@@ -16,4 +16,11 @@ Pasos a seguir
    Haz clic en "Program Device" y selecciona el archivo .bit generado.
    Presiona "Program" para cargar el diseño en el FPGA.
 
+NOTAS: 
+-- Se recomienda no usar ieee.std_logic_arith.all, en cambio usar ieee.numeric_std.all.
+-- Botones 3,3v: A18,B18 
+-- Leds verdes: A17, C16. Conectados al anodo (Se activan con estado alto)
+-- leds RGB(3,3v): C17, B16, B17. Conectados al catodo (se activan con estado bajo)  
+ 
+
 
