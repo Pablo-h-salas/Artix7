@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------------------------------------------
+							ARTIX-7
+-----------------------------------------------------------------------------------------------------------------
+CMOD A7 es un modulo de desarrollo que utiliza un FPGA de la serie artix-7.
+CMOD A7 es desarrollado por Digilent.
+CMOD A7 incluye circuito USB-JTAG, lo cual nos permite programarlo desde cable USB.
+CMOD A7 incluye un clock de 12 MHz conectado aL PIN L17
+
+Pasos a seguir
+1) Generar el archivo .VHD y el .XDC (de restricciones)
+2) Run Synthesis (codigo HDL se traduce a una descripcion logica de como se deben interconectar los recursos internos del FPGA)
+   luego Run Implementation
+3) Generar el Bitstream (para generar el archivo .bit que será programado en el FPGA)
+4) Con el CMOD A7 conectado a tu computadora, selecciona "Open Hardware Manager" en Vivado.
+   Haz clic en "Open Target" y luego "Auto Connect".
+   Haz clic en "Program Device" y selecciona el archivo .bit generado.
+   Presiona "Program" para cargar el diseño en el FPGA.
+
+
