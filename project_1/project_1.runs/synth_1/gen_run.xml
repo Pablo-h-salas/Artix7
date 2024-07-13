@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-3" LaunchTime="1718569686" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/MiCircuito.dcp">
+<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-3" LaunchTime="1720893076" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/MiCircuito.dcp">
   <File Type="PA-TCL" Name="MiCircuito.tcl"/>
   <File Type="RDS-PROPCONSTRS" Name="MiCircuito_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="MiCircuito_reports.tcl"/>

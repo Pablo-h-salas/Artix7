@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sat Jul 13 12:50:56 2024
+# Process ID: 7300
+# Current directory: D:/pablo/Desktop/MIS_APUNTES/Mis_repositorios/Artix7/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log MiCircuito.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source MiCircuito.tcl -notrace
+# Log file: D:/pablo/Desktop/MIS_APUNTES/Mis_repositorios/Artix7/project_1/project_1.runs/impl_1/MiCircuito.vdi
+# Journal file: D:/pablo/Desktop/MIS_APUNTES/Mis_repositorios/Artix7/project_1/project_1.runs/impl_1\vivado.jou
+# Running On: PBL-ZB430, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 2, Host memory: 8471 MB
+#-----------------------------------------------------------
+source MiCircuito.tcl -notrace

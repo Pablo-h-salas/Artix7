@@ -22,7 +22,6 @@ NOTAS:
 -- Leds verdes: A17, C16. Conectados al anodo (Se activan con estado alto)
 -- leds RGB(3,3v): C17, B16, B17. Conectados al catodo (se activan con estado bajo)  
 
-
 -------------------------------------------------------MEMORIA SRAM---------------------------------------------
 CMOD A7 incluye una SRAM de 512KB, tiene una interfaz paralela para el direccionamiento, de tamaño 19. (2^19 = 524.288 direcciones).
 aclaracion: "512KB" es igual a "524.288 bytes", osea 524.288 direcciones que almacenan palabras de 8 bits.
